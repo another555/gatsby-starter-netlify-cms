@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: DDD
-image: /img/clipboard01.jpg
+image: /img/chemex.jpg
 heading: generation
 subheading: shader
 mainpitch:
