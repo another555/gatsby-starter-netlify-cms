@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: DDD
-image: /img/home-jumbotron.jpg
+image: /img/clipboard01.jpg
 heading: generation
 subheading: shader
 mainpitch:
