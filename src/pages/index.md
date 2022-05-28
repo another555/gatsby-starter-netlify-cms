@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: DDD
-image: /img/chemex.jpg
+image: /img/products-full-width.jpg
 heading: generation
 subheading: shader
 mainpitch:
